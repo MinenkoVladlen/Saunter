@@ -34,7 +34,5 @@ describe('Form Component', () => {
     fireEvent.change(screen.getByLabelText(/Full description/i), { target: { value: 'Test Full Description' } });
 
     fireEvent.click(screen.getByText(/Add/i));
-
-    // Add your assertions here
   });
 });
