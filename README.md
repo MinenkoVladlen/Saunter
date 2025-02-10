@@ -12,14 +12,14 @@ To get started with the project, follow these steps:
     npm install
 
 3. **Run the project:**
-    npm start
+    npm run dev
 
 ## Running Tests
 
 To run the tests for the project, follow these steps:
 
 1. **Run the tests:**
-    npm test
+    npm run test
 
 
 ##
